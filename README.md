@@ -9,8 +9,8 @@ Elo ratings are a numerical way to rank the skill level of various competitors b
 The study is meant to predict the number of scores made by both the away team and home teams.
 
 Dataset :
-
 The dataset and glossary to use for this project can be found here. https://drive.google.com/file/d/1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc/view
+
 These were the necessary steps taken to perform the Experiment
 
 Reading the data
