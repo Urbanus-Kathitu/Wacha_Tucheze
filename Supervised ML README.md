@@ -1,4 +1,4 @@
-# Wacha_Tucheze
+# Wacha_Tucheze Supervised ML Project
 
 The FIFA Men's World Ranking is a ranking system for men's national teams in association football. The teams of the men's member nations of FIFA, football's world governing body, are ranked based on their game results with the most successful teams being ranked highest. The rankings were introduced in December 1992.
 
@@ -8,18 +8,22 @@ Elo ratings are a numerical way to rank the skill level of various competitors b
 
 The study is meant to predict the number of scores made by both the away team and home teams.
 
-This were the necessary steps taken to perform the Experiment
+Dataset
 
-Load data and preview preliminary characteristics
+- The dataset and glossary to use for this project can be found here. https://drive.google.com/file/d/1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc/view
 
-Read the data
+These were the necessary steps taken to perform the Experiment
 
-Perform Data Cleaning & Merge the data (check for and deal with outliers, anomalies and missing data)
+- Load data and preview preliminary characteristics
 
-Petform Exploratory Data Analysis
+- Read the data
 
-Implementing the Solution
+- Perform Data Cleaning & Merge the data (check for and deal with outliers, anomalies and missing data)
 
-Challenging the Solution
+- Petform Exploratory Data Analysis
 
-Follow Up Questions
+- Implementing the Solution
+
+- Challenging the Solution
+
+- Follow Up Questions
