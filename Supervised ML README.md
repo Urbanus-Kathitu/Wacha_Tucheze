@@ -20,7 +20,9 @@ These were the necessary steps taken to perform the Experiment
 
 - Perform Data Cleaning & Merge the data (check for and deal with outliers, anomalies and missing data)
 
-- Petform Exploratory Data Analysis
+- Perform Exploratory Data Analysis
+
+- Build a ML model: Predicting the home team score
 
 - Implementing the Solution
 
