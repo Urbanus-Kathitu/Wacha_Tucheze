@@ -8,21 +8,27 @@ Elo ratings are a numerical way to rank the skill level of various competitors b
 
 The study is meant to predict the number of scores made by both the away team and home teams.
 
-Dataset
+Dataset :
 
 - The dataset and glossary to use for this project can be found here. https://drive.google.com/file/d/1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc/view
 
-These were the necessary steps taken to perform the Experiment
+**These were the necessary steps taken to perform the Experiment**
 
-- Load data and preview preliminary characteristics
-
-- Read the data
-
-- Perform Data Cleaning & Merge the data (check for and deal with outliers, anomalies and missing data)
-
-- Perform Exploratory Data Analysis
-
-- Build a ML model: Predicting the home team score
+- Reading the data
+- Checking the data
+- Data Cleaning
+- Merge the Dataset
+- Exploratory Data Analysis (EDA)
+- Univariate Data Analysis
+- Bivariate Data Analysis
+- Plot Correlation Matrix
+- Feature selection and engineering
+- Build ML Model
+- Polynomial Regression
+- Model 1: Predict the Home_eam Score
+- Cross validation
+- Model 2 : Predict the Away Team Score
+- Logistic Regression
 
 - Implementing the Solution
 
