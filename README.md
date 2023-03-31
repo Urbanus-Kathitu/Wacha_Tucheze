@@ -35,7 +35,7 @@ Build ML Model
 
 Polynomial Regression
 
-Model 1: Predict the Home_eam Score
+Model 1: Predict the Home Team Score
 
 Cross validation
 
